@@ -1,5 +1,5 @@
 from datetime import datetime
-
+#  BAI 10 CHUONG TRINH TICH HOP CUOI CASE STUDY
 ma_phien = input("Nhap ma phien: ")
 ma_may = input("Nhap ma may: ")
 cong_suat_w = float(input("Nhap cong suat thiet bi (W): "))
